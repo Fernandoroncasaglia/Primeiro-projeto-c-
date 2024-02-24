@@ -1,0 +1,14 @@
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\bin\Debug\net8.0\Projeto-Muisical.exe
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\bin\Debug\net8.0\Projeto-Muisical.deps.json
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\bin\Debug\net8.0\Projeto-Muisical.runtimeconfig.json
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\bin\Debug\net8.0\Projeto-Muisical.dll
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\bin\Debug\net8.0\Projeto-Muisical.pdb
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.AssemblyInfo.cs
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.dll
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\refint\Projeto-Muisical.dll
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.pdb
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\Projeto-Muisical.genruntimeconfig.cache
+C:\Users\Fernando\Documents\.Net\Projeto-Muisical\obj\Debug\net8.0\ref\Projeto-Muisical.dll
